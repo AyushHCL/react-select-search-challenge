@@ -1,0 +1,18 @@
+.dropDownSearchBox{
+    padding: 5px 15px;;
+}
+
+.caretIcon{
+    position: relative;
+    left: -20px;
+}
+
+.wrappingOptionDiv{
+    width: 200px;
+}
+
+.addItemClass{
+   display: flex;
+   justify-content: space-between;
+   padding: 10px;
+}
